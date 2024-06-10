@@ -1,0 +1,23 @@
+{
+    "name": "krok/laravel-pint",
+    "description": "An opinionated code formatter for PHP.",
+    "keywords": [
+        "laravel",
+        "pint"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "system.bin@yandex.ru",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "laravel/pint": "^1.16"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
